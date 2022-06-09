@@ -1,5 +1,5 @@
 # Personal Site
 
-## Scrima personal site
+## Scrimba personal site
 
 Nettside oppgave på Scrimba
