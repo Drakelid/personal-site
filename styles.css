@@ -21,4 +21,6 @@ img {
 }
 .hero {
     background-image:url('46407-stockholm.jpg')
+    height:80vh;
+    width:100%;
 }
