@@ -16,3 +16,9 @@ body {
 img {
     width: 100px;
 }
+.section {
+    display:block;
+}
+.hero {
+    background-image:url('46407-stockholm.jpg')
+}
